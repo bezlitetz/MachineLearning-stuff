@@ -1,4 +1,4 @@
-# cs346-machine-learning
+# cs346 MachineLearning
 implementing class material 
 - week 01:
     - linear regression
