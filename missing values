@@ -1,1 +1,10 @@
+- types of missing values
+ways to deal with missing values
+simple
+- delete
+- remove
+- replace with mean
+complex
+- linear regression
+- knn
 
