@@ -31,7 +31,7 @@ print(x)
 # fit model
 model = LinearRegression()
 # the line below creates the eq of the line of best fit
-model.fit(x, y) # learns parap]meters. slopes, intercepts, minimize sum of sq residials, found the lineo f best fit
+model.fit(x, y) # learns parap]meters. slopes, intercepts, minimize sum of sq residials, found the eq line of best fit
 
 # the points that we plug in to the line of best fit
 y_coordRegLine = model.predict(x) # predict() returns the y-coordinates of the points on the line of best fit.
