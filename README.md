@@ -11,3 +11,9 @@ implementing class material
     - balancing data sample
 - week 03:
     - AI/ML bias
+- week 04
+    - Rules
+- week 05
+    - Clustering
+    - linear models
+    - logistic regression 
