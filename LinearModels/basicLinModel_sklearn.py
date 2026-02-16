@@ -8,7 +8,7 @@ y = [99,86,87,88,111,86,103,87,94,78,77,85,86]
 
 # convert python lists to numpy arrays, faster for numerical computation, vecotized math, holds just one var type
 y = np.array(y)
-x = np.array(x).reshape(-1, 1) # numpy requires x to be in 2D, therefore rreshape the data organisation
+x = np.array(x).reshape(-1, 1) # sklearn requires x to be in 2D, therefore reshape the data organisation
 # reshape is a np method 
 # (-1, b): figure out how many rows are needed automatically
 # (a, 1): 1 there are -1 total elements, we want 1 column
